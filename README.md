@@ -1,5 +1,7 @@
 # Proyecto-sistema-integrado-
-#Sistema de ventas 
+
+#Sistema de ventas para una ferreteria utilozando Java para su programacion y desarrollo 
+
 #Este proyecto es un Sistema de Facturación desarrollado en Java utilizando el entorno de desarrollo integrado NetBeans. El sistema está diseñado para gestionar de manera eficiente las operaciones de facturación de una empresa, incluyendo la gestión de clientes, productos, facturas y reportes.
 
 #Características
